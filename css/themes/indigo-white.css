@@ -2,11 +2,12 @@
 
 main {
 	background: #303F9F;
-	color: #FAFAFA;
+	color: #ffffff;
+	text-shadow: black 1px 1px;
 }
 
 .icons-social a {
-	color: #FAFAFA;
+	color: #FAFAFA !important;
 }
 
 .icons-social a svg path{
